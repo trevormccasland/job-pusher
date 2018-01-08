@@ -1,14 +1,13 @@
-import gearman
-
-gm_worker = gearman.GearmanWorker(['localhost:4730'])
+import gear
 
 def task_listener_reverse(gearman_worker, gearman_job):
     print 'Reversing string: ' + gearman_job.data
     return gearman_job.data[::-1]
 
-# gm_worker.set_client_id is optional
-gm_worker.set_client_id('python-worker')
-gm_worker.register_task('reverse', task_listener_reverse)
+worker = gear.Worker('reverser')
+worker.addServer('192.168.122.89')
+worker.registerFunction('reverse')
 
-# Enter our work loop and call gm_worker.after_poll() after each time we timeout/see socket activity
-gm_worker.work()
+while True:
+    job = worker.getJob()
+    job.sendWorkComplete(job.arguments[::-1])

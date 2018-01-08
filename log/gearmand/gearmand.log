@@ -1,0 +1,167 @@
+   INFO 2018-01-08 18:11:08.758613 [  main ] Initializing Gear
+   INFO 2018-01-08 18:11:08.000000 [  main ] Starting up(20496), verbose set to INFO
+   INFO 2018-01-08 18:11:08.000000 [  main ] Listening on 192.168.122.89:4730 (10)
+   INFO 2018-01-08 18:11:08.000000 [  main ] Adding event for listening socket (10)
+   INFO 2018-01-08 18:12:09.000000 [  main ] Accepted connection from 192.168.122.89:53946
+   INFO 2018-01-08 18:12:09.000000 [     4 ] Gear connection made
+   INFO 2018-01-08 18:12:11.000000 [     4 ] Gear unpack
+ NOTICE 2018-01-08 18:12:11.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:12:13.000000 [     4 ] Peer connection has called close() 192.168.122.89:53946
+   INFO 2018-01-08 18:12:13.000000 [     4 ] Disconnected 192.168.122.89:53946
+   INFO 2018-01-08 18:12:13.000000 [     4 ] Gear connection disconnected
+   INFO 2018-01-08 18:12:23.000000 [  main ] Accepted connection from 192.168.122.89:53956
+   INFO 2018-01-08 18:12:23.000000 [     3 ] Gear connection made
+   INFO 2018-01-08 18:12:23.000000 [     3 ] Gear unpack
+ NOTICE 2018-01-08 18:12:23.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:12:23.000000 [     3 ] Peer connection has called close() 192.168.122.89:53956
+   INFO 2018-01-08 18:12:23.000000 [     3 ] Disconnected 192.168.122.89:53956
+   INFO 2018-01-08 18:12:23.000000 [     3 ] Gear connection disconnected
+   INFO 2018-01-08 18:15:14.000000 [  main ] Accepted connection from 192.168.122.89:53970
+   INFO 2018-01-08 18:15:14.000000 [     2 ] Gear connection made
+   INFO 2018-01-08 18:15:14.000000 [     2 ] Gear unpack
+ NOTICE 2018-01-08 18:15:14.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:16:58.000000 [     2 ] Peer connection has called close() 192.168.122.89:53970
+   INFO 2018-01-08 18:16:58.000000 [     2 ] Disconnected 192.168.122.89:53970
+   INFO 2018-01-08 18:16:58.000000 [     2 ] Gear connection disconnected
+   INFO 2018-01-08 18:36:21.000000 [  main ] Accepted connection from 192.168.122.89:54162
+   INFO 2018-01-08 18:36:21.000000 [     1 ] Gear connection made
+   INFO 2018-01-08 18:36:21.000000 [     1 ] Gear unpack
+ NOTICE 2018-01-08 18:36:21.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:36:23.000000 [     1 ] Peer connection has called close() 192.168.122.89:54162
+   INFO 2018-01-08 18:36:23.000000 [     1 ] Disconnected 192.168.122.89:54162
+   INFO 2018-01-08 18:36:23.000000 [     1 ] Gear connection disconnected
+   INFO 2018-01-08 18:36:46.000000 [  main ] Accepted connection from 192.168.122.89:54170
+   INFO 2018-01-08 18:36:46.000000 [     4 ] Gear connection made
+   INFO 2018-01-08 18:36:46.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 18:36:46.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 18:36:46.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 18:36:46.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 18:36:50.000000 [  main ] Accepted connection from 192.168.122.89:54172
+   INFO 2018-01-08 18:36:50.000000 [     3 ] Gear connection made
+   INFO 2018-01-08 18:36:50.000000 [     3 ] Gear unpack
+ NOTICE 2018-01-08 18:36:50.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:36:50.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 18:36:50.000000 [     4 ] Peer connection has called close() 192.168.122.89:54170
+   INFO 2018-01-08 18:36:50.000000 [     4 ] Disconnected 192.168.122.89:54170
+   INFO 2018-01-08 18:36:50.000000 [     4 ] Gear connection disconnected
+   INFO 2018-01-08 18:38:06.000000 [  main ] Accepted connection from 192.168.122.89:54180
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear connection made
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:06.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:08.000000 [     3 ] Peer connection has called close() 192.168.122.89:54172
+   INFO 2018-01-08 18:38:08.000000 [     3 ] Disconnected 192.168.122.89:54172
+   INFO 2018-01-08 18:38:08.000000 [     3 ] Gear connection disconnected
+   INFO 2018-01-08 18:38:11.000000 [  main ] Accepted connection from 192.168.122.89:54182
+   INFO 2018-01-08 18:38:11.000000 [     1 ] Gear connection made
+   INFO 2018-01-08 18:38:11.000000 [     1 ] Gear unpack
+ NOTICE 2018-01-08 18:38:11.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:38:11.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:11.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:11.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:11.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:38:12.000000 [     1 ] Peer connection has called close() 192.168.122.89:54182
+   INFO 2018-01-08 18:38:12.000000 [     1 ] Disconnected 192.168.122.89:54182
+   INFO 2018-01-08 18:38:12.000000 [     1 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:29.000000 [  main ] Accepted connection from 192.168.122.89:54196
+   INFO 2018-01-08 18:40:29.000000 [     4 ] Gear connection made
+   INFO 2018-01-08 18:40:29.000000 [     4 ] Gear unpack
+ NOTICE 2018-01-08 18:40:29.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:40:29.000000 [     2 ] Gear unpack
+   INFO 2018-01-08 18:40:29.000000 [     2 ] Peer connection has called close() 192.168.122.89:54180
+   INFO 2018-01-08 18:40:29.000000 [     2 ] Disconnected 192.168.122.89:54180
+   INFO 2018-01-08 18:40:29.000000 [     4 ] Peer connection has called close() 192.168.122.89:54196
+   INFO 2018-01-08 18:40:29.000000 [     4 ] Disconnected 192.168.122.89:54196
+   INFO 2018-01-08 18:40:29.000000 [     4 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:29.000000 [     2 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:34.000000 [  main ] Accepted connection from 192.168.122.89:54198
+   INFO 2018-01-08 18:40:34.000000 [     3 ] Gear connection made
+   INFO 2018-01-08 18:40:34.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:34.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:34.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:34.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:37.000000 [  main ] Accepted connection from 192.168.122.89:54200
+   INFO 2018-01-08 18:40:37.000000 [     2 ] Gear connection made
+   INFO 2018-01-08 18:40:37.000000 [     2 ] Gear unpack
+ NOTICE 2018-01-08 18:40:37.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:40:37.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:37.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:37.000000 [     2 ] Peer connection has called close() 192.168.122.89:54200
+   INFO 2018-01-08 18:40:37.000000 [     2 ] Disconnected 192.168.122.89:54200
+   INFO 2018-01-08 18:40:37.000000 [     2 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:37.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:37.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:41.000000 [  main ] Accepted connection from 192.168.122.89:54202
+   INFO 2018-01-08 18:40:41.000000 [     1 ] Gear connection made
+   INFO 2018-01-08 18:40:41.000000 [     1 ] Gear unpack
+ NOTICE 2018-01-08 18:40:41.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:40:41.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:41.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:41.000000 [     1 ] Peer connection has called close() 192.168.122.89:54202
+   INFO 2018-01-08 18:40:41.000000 [     1 ] Disconnected 192.168.122.89:54202
+   INFO 2018-01-08 18:40:41.000000 [     1 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:41.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:41.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:51.000000 [  main ] Accepted connection from 192.168.122.89:54216
+   INFO 2018-01-08 18:40:51.000000 [     4 ] Gear connection made
+   INFO 2018-01-08 18:40:51.000000 [     4 ] Gear unpack
+ NOTICE 2018-01-08 18:40:51.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:40:51.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:51.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:51.000000 [     4 ] Peer connection has called close() 192.168.122.89:54216
+   INFO 2018-01-08 18:40:51.000000 [     4 ] Disconnected 192.168.122.89:54216
+   INFO 2018-01-08 18:40:51.000000 [     4 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:51.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:51.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:54.000000 [  main ] Accepted connection from 192.168.122.89:54218
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear connection made
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear unpack
+ NOTICE 2018-01-08 18:40:54.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Peer connection has called close() 192.168.122.89:54218
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Disconnected 192.168.122.89:54218
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear connection disconnected
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:40:54.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:41:48.000000 [  main ] Accepted connection from 192.168.122.89:54226
+   INFO 2018-01-08 18:41:48.000000 [     2 ] Gear connection made
+   INFO 2018-01-08 18:41:48.000000 [     2 ] Gear unpack
+ NOTICE 2018-01-08 18:41:48.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 18:41:48.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:41:48.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:41:48.000000 [     2 ] Peer connection has called close() 192.168.122.89:54226
+   INFO 2018-01-08 18:41:48.000000 [     2 ] Disconnected 192.168.122.89:54226
+   INFO 2018-01-08 18:41:48.000000 [     2 ] Gear connection disconnected
+   INFO 2018-01-08 18:41:48.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 18:41:48.000000 [     3 ] Gear unpack
+   INFO 2018-01-08 19:17:39.000000 [     3 ] Peer connection has called close() 192.168.122.89:54198
+   INFO 2018-01-08 19:17:39.000000 [     3 ] Disconnected 192.168.122.89:54198
+   INFO 2018-01-08 19:17:39.000000 [     3 ] Gear connection disconnected
+   INFO 2018-01-08 19:28:53.000000 [  main ] Accepted connection from 192.168.122.89:54328
+   INFO 2018-01-08 19:28:53.000000 [     1 ] Gear connection made
+   INFO 2018-01-08 19:28:53.000000 [     1 ] Gear unpack
+ NOTICE 2018-01-08 19:28:53.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 19:28:53.000000 [     1 ] Peer connection has called close() 192.168.122.89:54328
+   INFO 2018-01-08 19:28:53.000000 [     1 ] Disconnected 192.168.122.89:54328
+   INFO 2018-01-08 19:28:53.000000 [     1 ] Gear connection disconnected
+   INFO 2018-01-08 19:29:36.000000 [  main ] Accepted connection from 192.168.122.89:54330
+   INFO 2018-01-08 19:29:36.000000 [     4 ] Gear connection made
+   INFO 2018-01-08 19:29:36.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:36.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:36.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:36.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:42.000000 [  main ] Accepted connection from 192.168.122.89:54332
+   INFO 2018-01-08 19:29:42.000000 [     3 ] Gear connection made
+   INFO 2018-01-08 19:29:42.000000 [     3 ] Gear unpack
+ NOTICE 2018-01-08 19:29:42.000000 [  proc ] accepted,reverse,,0 -> libgearman-server/server.cc:301
+   INFO 2018-01-08 19:29:42.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:42.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:42.000000 [     3 ] Peer connection has called close() 192.168.122.89:54332
+   INFO 2018-01-08 19:29:42.000000 [     3 ] Disconnected 192.168.122.89:54332
+   INFO 2018-01-08 19:29:42.000000 [     3 ] Gear connection disconnected
+   INFO 2018-01-08 19:29:42.000000 [     4 ] Gear unpack
+   INFO 2018-01-08 19:29:42.000000 [     4 ] Gear unpack
